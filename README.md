@@ -1,2 +1,2 @@
 # sourcetreetest
-master text
+master text init
