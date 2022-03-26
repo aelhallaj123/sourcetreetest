@@ -11,3 +11,4 @@ feature 2 commit 4 + dev4
 commit dev 5
 
 feature commit + commit dev 6
+commit dev 7
