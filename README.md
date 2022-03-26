@@ -8,3 +8,4 @@ feature 2 commit 3
 
 feature 2 commit 4 + dev4
  feature test conflit with dev 5
+commit dev 5
