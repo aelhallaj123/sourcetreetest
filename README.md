@@ -10,4 +10,4 @@ feature 2 commit 4 + dev4
  feature test conflit with dev 5
 commit dev 5
 
-feature commit
+feature commit + commit dev 6
